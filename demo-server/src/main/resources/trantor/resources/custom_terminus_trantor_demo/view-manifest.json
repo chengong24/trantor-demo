@@ -6,5 +6,13 @@
     "forModel": "terminus_trantor_demo_User",
     "template": "user-list-view.xml",
     "isDefault": false
+  },
+  {
+    "key": "listAll",
+    "name": "员工",
+    "type": "List",
+    "forModel": "custom_terminus_trantor_demo_Staff",
+    "template": "staff-list-view.xml",
+    "isDefault": true
   }
 ]
