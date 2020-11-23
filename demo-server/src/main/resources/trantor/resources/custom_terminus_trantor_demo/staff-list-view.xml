@@ -1,0 +1,7 @@
+<View title="staff信息">
+    <Table key="table" model="custom_terminus_trantor_demo_Staff">
+        <Fields>
+            <Field name="code"/>
+        </Fields>
+    </Table>
+</View>

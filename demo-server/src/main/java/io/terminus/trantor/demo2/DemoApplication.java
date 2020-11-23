@@ -1,4 +1,4 @@
-package io.terminus.trantor.demo;
+package io.terminus.trantor.demo2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

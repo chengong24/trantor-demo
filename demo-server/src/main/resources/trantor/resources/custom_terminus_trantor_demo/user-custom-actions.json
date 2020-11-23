@@ -1,0 +1,12 @@
+[
+  {
+    "key": "custom_userList",
+    "forModel": "terminus_trantor_demo_User",
+    "extra": {
+      "dataSource": "Action",
+      "target": "terminus_trantor_demo_User_custom_List",
+      "openViewType": "Self",
+      "actionKey": "terminus_trantor_demo_User_UserServerAction1"
+    }
+  }
+]

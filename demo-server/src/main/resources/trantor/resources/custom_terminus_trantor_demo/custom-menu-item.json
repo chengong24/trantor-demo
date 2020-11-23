@@ -1,0 +1,9 @@
+[
+  {
+    "originalKey": "custom_staffList",
+    "name": "custom_staffList",
+    "routingType": "Action",
+    "desc": "custom_staffList",
+    "routeKey": "custom_terminus_trantor_demo_Staff_custom_staffList"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "key": "custom_List",
+    "name": "二开表单",
+    "type": "List",
+    "forModel": "terminus_trantor_demo_User",
+    "template": "user-list-view.xml",
+    "isDefault": false
+  }
+]

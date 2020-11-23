@@ -1,6 +1,6 @@
-package io.terminus.trantor.demo.dao;
+package io.terminus.trantor.demo2.repo;
 
-import io.terminus.trantor.demo.model.User;
+import io.terminus.trantor.demo2.model.UserEx;
 import io.terminus.trantor.sdk.autumn.dao.TrantorDAO;
 import org.springframework.stereotype.Repository;
 
@@ -11,5 +11,5 @@ import org.springframework.stereotype.Repository;
  * @date 2020/7/13
  */
 @Repository
-public class UserRepository extends TrantorDAO<User, Long> {
+public class UserRepository1 extends TrantorDAO<UserEx, Long> {
 }
