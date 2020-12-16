@@ -1,0 +1,13 @@
+<View>
+    <Form model="terminus_trantor_demo_User" key="form">
+        <Fields>
+            <Field name="name"/>
+            <Field name="email"/>
+            <Field name="phone"/>
+            <Field name="ex"/>
+        </Fields>
+        <Actions>
+            <Action type="Submit" action="terminus_trantor_demo_User_UserServerExAction::save" after="GoBack"/>
+        </Actions>
+    </Form>
+</View>
