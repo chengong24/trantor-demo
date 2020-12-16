@@ -11,5 +11,5 @@ import org.springframework.stereotype.Repository;
  * @date 2020/7/13
  */
 @Repository
-public class UserRepository1 extends TrantorDAO<UserEx, Long> {
+public class UserExRepository extends TrantorDAO<UserEx, Long> {
 }

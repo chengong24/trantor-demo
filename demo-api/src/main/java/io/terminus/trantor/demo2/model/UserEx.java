@@ -6,7 +6,7 @@ import io.terminus.trantor.demo.model.User;
 import lombok.Data;
 
 /**
- * model定义信息
+ * 二开model定义信息
  */
 @Data
 @ExtendTModel(User.class)

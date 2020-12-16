@@ -1,16 +1,16 @@
 [
   {
-    "originalKey": "custom_staffList",
-    "name": "custom_staffList",
-    "routingType": "Action",
-    "desc": "custom_staffList",
-    "routeKey": "custom_terminus_trantor_demo_Staff_custom_staffList"
-  },
-  {
     "originalKey": "custom_userList",
     "name": "custom_userList",
     "routingType": "Action",
     "desc": "custom_userList",
     "routeKey": "terminus_trantor_demo_User_custom_userList"
+  },
+  {
+    "originalKey": "toEdit",
+    "name": "userEdit",
+    "routingType": "Action",
+    "desc": "userEdit",
+    "routeKey": "terminus_trantor_demo_User_toEdit"
   }
 ]

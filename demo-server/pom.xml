@@ -45,7 +45,7 @@
                 <configuration>
                     <!-- 这里请替换为你自己的包名 & metastore 地址 -->
                     <moduleKey>custom_terminus_trantor_demo</moduleKey>
-                    <repositoryUrl>http://localhost:8082/terminus/custom</repositoryUrl>
+                    <repositoryUrl>http://localhost:8082/terminus/scp</repositoryUrl>
 <!--                    <repositoryUrl>https://meta-store-api.app.terminus.io/terminus/SCP</repositoryUrl>-->
 <!--                    <repositoryUrl>https://meta-store-testt.app.terminus.io/tenant/testproject</repositoryUrl>-->
                 </configuration>

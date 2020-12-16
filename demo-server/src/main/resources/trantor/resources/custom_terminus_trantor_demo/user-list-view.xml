@@ -10,5 +10,10 @@
             <Field name="phone" label="手机"/>
             <Field name="ex" label="二开字段"/>
         </Fields>
+
+        <Actions>
+            <Action label="创建" openViewType="Dialog" action="terminus_trantor_demo_User_toEdit"/>
+        </Actions>
     </Table>
+
 </View>

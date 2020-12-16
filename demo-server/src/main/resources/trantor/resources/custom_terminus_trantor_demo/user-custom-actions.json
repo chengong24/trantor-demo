@@ -6,7 +6,16 @@
       "dataSource": "Action",
       "target": "terminus_trantor_demo_User_custom_List",
       "openViewType": "Self",
-      "actionKey": "terminus_trantor_demo_User_UserServerAction1"
+      "actionKey": "terminus_trantor_demo_User_UserServerExAction"
+    }
+  },
+  {
+    "key": "toEdit",
+    "forModel": "terminus_trantor_demo_User",
+    "extra": {
+      "dataSource": "DataStore",
+      "target": "terminus_trantor_demo_User_custom_edit",
+      "openViewType": "Self"
     }
   }
 ]
